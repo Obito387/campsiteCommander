@@ -20,12 +20,14 @@ The app safely stores these entries using parallel arrays, calculates the total 
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](screenshots/)
+![Splash Screen](screenshots/splash_2)
 
 ###  Main Screen
-![Main Screen](screenshots/)
+![Main Screen](screenshots/first_screen_2)
 
 ###  Detailed Checklist View
-![Main Screen](screenshots/)
+![Main Screen](screenshots/second_screen_2_1)
+
+![Main Screen](screenshots/second_screen_2_2)
 
 ---
