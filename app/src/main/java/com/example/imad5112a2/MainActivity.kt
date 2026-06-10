@@ -1,3 +1,5 @@
+// ST10515831
+// Thanyani Thabelo
 package com.example.imad5112a2
 
 import android.content.Intent
