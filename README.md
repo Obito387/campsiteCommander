@@ -4,6 +4,8 @@ A native Android inventory app built with Kotlin in Android Studio, designed for
 Keep track of your camping gear and food supplies, categorize your outdoor essentials (e.g., Shelter, Cooking, First Aid), and ensure you are fully prepared for your next trip to the great outdoors! 
 
 The app safely stores these entries using parallel arrays, calculates the total items packed using loops, and provides a detailed, scrollable checklist view of your gear.
+## Author
+### ST10515831
 
 ## Features
 
